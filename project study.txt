@@ -1,0 +1,10 @@
+Trestbps- resting blood pressure
+chol- cholestrol
+fbs- Fibroblasts comprise the largest cell population in the myocardium
+restecg- In men with symptomatic CHD the resting electrocardiogram may help to define a group at high risk who may benefit from intervention
+thalach- Maximum heart rate achieved
+exang- 
+oldpeak- oldpeak: ST depression induced by exercise relative to rest (‘ST’ relates to positions on the ECG plot
+Slope- Peak exercise ST segment
+CA- Coronary artery disease
+thal- Thalassemia
